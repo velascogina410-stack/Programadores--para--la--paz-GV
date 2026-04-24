@@ -1,0 +1,8 @@
+Pregunta 5
+Respuesta: La bombilla no funciona
+                       |
+                ¿Esta encendida?-No-Encender
+                       |Si
+                 ¿Se daño?-Si-Remplazarla foco
+                       |No
+              Comprar una nueva bombilla
