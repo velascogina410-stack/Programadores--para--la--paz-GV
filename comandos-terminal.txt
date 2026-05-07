@@ -1,0 +1,10 @@
+COMANDOS 
+pkg install git
+git version
+git clone
+nano preguntas-semana2.txt
+nano comandos-semana2.txt
+nano reflexion-semana2.txt
+mkdir 
+cd semana2
+ls
