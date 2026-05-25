@@ -1,0 +1,6 @@
+CONCEPTO DE REPOSITORIO
+Un repositorio es un sistema donde se guarda,se organizq y se reserva inforcion 
+CONCEPTO DE COMMIT
+Es el comando que permite guardar todos los cambios que le realizamos a un proyecto 
+CONCEPTO DE PUSH
+Permite enviar actualizaciones en un tiempo real a todos los archivoz que tenemos guardados en nuestro repositorio 
